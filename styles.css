@@ -9,6 +9,7 @@ li{
 }
 
 .navbar {
+    border-radius: 12px;
     background-color: #5fbd88;
     padding: 10px;
     text-align: center;
