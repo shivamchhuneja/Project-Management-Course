@@ -11,7 +11,8 @@ li{
 .navbar {
     border-radius: 12px;
     background-color: #5fbd88;
-    padding: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
     text-align: center;
 }
 
