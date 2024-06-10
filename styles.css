@@ -26,6 +26,11 @@ li{
     padding: 30px;
 }
 
+a {
+    text-decoration: none;
+    color: #5fbd88;
+}
+
 details summary {
     font-size: 1.2em;
     cursor: pointer;
