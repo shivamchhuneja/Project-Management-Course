@@ -1,54 +1,70 @@
 body {
-    background-color: #313131;
-    color: #ffffff;
-    font-family: Arial, sans-serif;
+  background-color: #00111f;
+  color: #e4e4e4;
+  font-family: Arial, sans-serif;
 }
 
-li{
-    padding-top: 10px;
+li {
+  padding-top: 10px;
 }
 
+.top-item {
+  margin-top: 10px;
+  border-radius: 12px;
+  background-color: #001a2f;
+  padding: 5px;
+  text-align: center;
+}
 .navbar {
-    border-radius: 12px;
-    background-color: #5fbd88;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    text-align: center;
+  border-radius: 12px;
+  background-color: #003a69;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  text-align: center;
 }
 
 .navbar h1 {
-    margin: 0;
-    color: #ffffff;
+  margin: 0;
+  color: #ffffff;
+  text-align: center;
+  padding-left: 10px;
+}
+
+.navbar a {
+  color: #ffffff;
+  text-decoration: underline;
+  text-align: center;
 }
 
 .content {
-    margin-top: 20px;
-    border-radius: 12px;
-    background-color: #414141;
-    padding: 30px;
+  margin-top: 20px;
+  border-radius: 12px;
+  background-color: #001628;
+  padding: 30px;
 }
 
 a {
-    text-decoration: none;
-    color: #5fbd88;
+  text-decoration: none;
+  color: #51b1ff;
 }
 
 details summary {
-    font-size: 1.2em;
-    cursor: pointer;
-    padding: 10px;
+  font-size: 1.2em;
+  cursor: pointer;
+  padding: 10px;
 }
 
 details details {
-    margin-left: 20px;
+  margin-left: 20px;
 }
 
-details summary h2, details summary h3 {
-    display: inline;
-    font-size: 1.2em;
-    font-weight: bold;
+details summary h2,
+details summary h3 {
+  display: inline;
+  font-size: 1.2em;
+  font-weight: bold;
 }
 
 ol {
-    margin-left: 20px;
+  margin-left: 20px;
 }
