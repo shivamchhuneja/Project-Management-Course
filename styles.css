@@ -35,7 +35,6 @@ li {
 
 .navbar .go-back {
   color: #ffffff;
-  text-decoration: underline;
   padding-left: 10px;
   padding-right: 20px;
   transition: color 0.3s, transform 0.3s;
@@ -43,6 +42,7 @@ li {
 
 .navbar .go-back:hover {
   color: #0068ad;
+  text-decoration: underline;
   transform: scale(1.1);
 }
 
